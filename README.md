@@ -12,11 +12,14 @@ This repository contains the final project for the Simulation Pro course. It uti
 ## Dependencies
 
 The project requires Python 3.x and the following packages:
-- `numpy`
-- `scipy`
-- `pandas`
-- `matplotlib`
-- `tqdm`
+- matplotlib==3.7.1
+- numpy==1.26.4
+- pandas==3.0.1
+- scipy==1.17.1
+- seaborn==0.13.2
+- simpy==4.1.1
+- statsmodels==0.14.1
+- tqdm==4.66.1
 
 *Note: The `butools` package is included locally within the project structure.*
 
