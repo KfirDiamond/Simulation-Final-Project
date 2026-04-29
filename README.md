@@ -26,9 +26,5 @@ The project requires Python 3.x and the following packages:
 ## Getting Started
 
 1. Clone this repository.
-2. Create a virtual environment and install the required dependencies: `pip install numpy scipy pandas matplotlib tqdm`.
+2. Create a virtual environment and install the required dependencies.
 3. Run your main simulation entry points (for example, `python sim_course_pycharm/sample_PH.py`).
-
-## License
-
-[Add your license information here, e.g., MIT, GPL, etc.]
